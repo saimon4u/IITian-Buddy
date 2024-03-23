@@ -14,4 +14,13 @@
     <string name="full_name">Full Name</string>
     <string name="confirm_password_text">Confirm Password</string>
     <string name="register_option_text">Or Register With</string>
+    <string name="home_frag_greetings">Hi, Saimon</string>
+    <string name="search_text">Search</string>
+    <string name="for_you_text">For You</string>
+    <string name="see_all_text">-See all</string>
+    <string name="class_schedule_text">Class Schedule</string>
+    <string name="iit_events_text">IIT Events</string>
+    <string name="directory_text">Directory</string>
+    <string name="shared_resources_text">Shared Resources</string>
+    <string name="event_title">IIT Iftar Mahfil 2024</string>
 </resources>
