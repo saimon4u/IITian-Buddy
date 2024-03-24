@@ -23,4 +23,26 @@
     <string name="directory_text">Directory</string>
     <string name="shared_resources_text">Shared Resources</string>
     <string name="event_title">IIT Iftar Mahfil 2024</string>
+    <string name="classes_text">Classes</string>
+    <string name="sun_text">Sun</string>
+    <string name="mon_text">Mon</string>
+    <string name="tue_text">Tue</string>
+    <string name="wed_text">Wed</string>
+    <string name="thu_text">Thu</string>
+    <string name="extra_text">Extra</string>
+    <string name="empty_class_list_warning">Class list is empty\nPlease Contact with your CR !</string>
+    <string name="add_text">Add</string>
+    <string name="time_text">8:00 AM - 10:00 AM</string>
+    <string name="canceled_text">Canceled</string>
+    <string name="course_code">SE - 406</string>
+    <string name="room_no">Room 107</string>
+    <string name="teacher_name">Kazi Muheymin</string>
+    <string name="select_week_day_text">Select Week Day</string>
+    <string name="course_code_text">Course Code</string>
+    <string name="instructor_name_text">Instructor Name</string>
+    <string name="room_number_text">Room Number</string>
+    <string name="from_text">From</string>
+    <string name="to_text">To</string>
+    <string name="save_text">Save</string>
+    <string name="cancel_text">Cancel</string>
 </resources>
